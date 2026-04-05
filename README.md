@@ -1,5 +1,3 @@
-# coding-project-template
-
 # e-plantShopping
 e-plant is a React-based e-commerce application for buying houseplants.
 It includes a product listing page with multiple plan categories, a shopping cart managed with Redux, and a landing page for Paradise Nursery.
